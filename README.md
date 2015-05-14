@@ -1,5 +1,7 @@
-# openFEC-alpha
+# fec-alpha
 A place to explore and evolve a new site for the Federal Election Commission.
+
+**Note:** This project is still in alpha and not yet deployed. We're still investigating the best ways to present this data to the public.
 
 ## Issue Format
 We use GitHub issues to track our tasks. In order for issues to be written in a way that both the writer and the reader understands what's actually going on, here's the outline we try to follow:
